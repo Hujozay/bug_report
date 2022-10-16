@@ -1,4 +1,4 @@
-**# Sanitization Management System v1.0 by oretnom23 has SQL injection
+# Sanitization Management System v1.0 by oretnom23 has SQL injection
 
 BUG_Author: Hujozay
 
